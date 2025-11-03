@@ -1,0 +1,6 @@
+# Ignore environment files
+.env
+.venv
+
+# Ignore specific JSON file
+gemini_cache.json
